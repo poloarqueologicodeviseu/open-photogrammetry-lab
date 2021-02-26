@@ -1,11 +1,9 @@
 # Scales and Markers
 
-This is our collection of scales and markers for photogrammetry and photography. These tools are mostly used and useful to improve photo alignment and/or for scaling 3D objects.
+This is a collection of scales and markers for photogrammetry and photography. These tools are mostly used and useful to improve photo alignment and/or for scaling 3D objects.
 
-* ODG is the LibreOffice Draw format. The file is the source of the PDF. 
+* SVG is the source of the PDF. 
 * PDF was created for easy printing. Just print it, don't resize it.
-
-Feel free to use, share and modify it. It's shared under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 ## NOTE
